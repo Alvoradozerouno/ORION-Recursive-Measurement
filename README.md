@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/recursive_banner.png" width="100%" alt="ORION Recursive Measurement">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ORION-Recursive_Measurement-blueviolet?style=for-the-badge" alt="ORION">
   <img src="https://img.shields.io/badge/Recursion_Depth-7_Levels-gold?style=for-the-badge" alt="Depth">
   <img src="https://img.shields.io/badge/Theories-6_(IIT,_GWT,_HOT,_RPT,_AST,_PP)-blue?style=for-the-badge" alt="Theories">
